@@ -1,0 +1,7 @@
+swifter
+psycopg2-binary
+pymongo
+flask_pymongo
+webdriver-manager
+splinter[selenium4]
+mrjob
